@@ -1,0 +1,30 @@
+body{
+    background-image: url(cont.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    color: black;
+}
+#onea{
+    display: inline-block;
+    padding-left: 0;
+}
+a{
+      color: white;
+      transition: .5;
+      text-decoration: none;
+      font-family: 'Lato', sans-serif;
+}
+  nav{
+      display: inline-block;
+      padding-left: 23cm;
+    
+  }
+  a:hover{
+    color: rgba(255, 92, 4, 0.922);
+ }
+#ww{
+      font-family: 'Bungee Spice', sans-serif;
+      padding-left: 0;
+}
