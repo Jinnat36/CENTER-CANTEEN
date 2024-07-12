@@ -1,0 +1,42 @@
+#h3{
+font-family: Georgia, 'Times New Roman', Times, serif; 
+padding-left: 11.5cm;
+padding-top: 1.3cm;
+font-weight: bold;
+}
+body{
+    background-image: url(cont.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+border: 1px solid rgb(231, 231, 220);
+width: 6cm;
+height: 5cm;
+margin: 10px;
+}
+#one{
+  
+    display: inline;
+}
+#two{
+    text-align: center;
+    padding-top: .5cm;
+}
+nav{
+    display: inline-block;
+    padding-left: 23cm;
+}
+a{
+    color: white;
+    transition: .5;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+}
+a:hover{
+    color: rgba(255, 92, 4, 0.922);
+}
+#ww{
+    font-family: 'Bungee Spice', sans-serif;
+}
+

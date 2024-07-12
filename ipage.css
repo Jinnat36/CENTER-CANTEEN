@@ -1,0 +1,44 @@
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+center{
+    text-align: center;
+     padding-top: 15%;
+}
+font{
+    font-family: 'Cinzel', serif;
+    color: white;
+}
+#ww{
+    font-family: 'Bungee Spice', sans-serif;
+}
+span{
+    color: white;
+}
+a{
+    color: white;
+    transition: .5;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+}
+a:hover{
+    color: rgba(255, 92, 4, 0.922);
+}
+div{
+    display: inline-block;
+}
+nav{
+    display: inline-block;
+    padding-left: 15cm;
+   
+}
+.ab{
+    padding: 5px;
+    margin: 6px;
+    background-color: rgb(205, 80, 8);
+}
+.ab:hover{
+    color: black;
+}

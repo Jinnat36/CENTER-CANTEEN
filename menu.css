@@ -1,0 +1,167 @@
+
+/* for all body */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: transparent; 
+}
+
+/* for html tag */
+html{
+scroll-behavior: smooth;
+}
+
+.bg{
+    background: url(menu.jpg);
+    height: 99vh;
+    width: 100%;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+}
+h1{
+    color: aliceblue;
+}
+#view:hover{
+color: black;
+padding: 5px;
+}
+a{
+    color: white;
+    transition: .5;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+   
+}
+a:hover{
+    color: rgba(255, 92, 4, 0.922);
+}
+.ab{
+    padding: 4px;
+    border: 0.5px solid white;
+    background-color: orangered;
+}
+
+nav{
+    display: inline-block;
+    padding-left: 32%;
+   
+}
+#ww{
+    font-family: 'Bungee Spice', sans-serif;
+}
+p{
+    display: inline;
+}
+CENTER{
+    padding-top: 5cm;
+    padding-left: 17cm;
+    color: white;
+}
+
+#view_our_manu_heading{
+    color: black;
+    padding-left: 10.5cm; 
+    padding-top: 1cm;
+}
+
+.price{
+    padding-top: 1cm;
+    margin: 2.52cm;
+}
+.price1{
+    padding: 61px;
+}
+.price2{
+    padding: 24px;
+}
+.price3{
+    padding: 94px;
+}
+.price4{
+    padding: 52PX
+}
+.price5{
+    padding: 15PX;
+}
+
+body{
+    background-color: rgb(201, 198, 104);
+}
+#navbar{
+    background-color: black;
+}
+.item{
+width: 6cm;
+height: 5cm;
+ margin: 10px;
+ border: 1px solid white;
+
+}
+.item_name{
+    color: black;
+    padding-top: 1cm;
+    padding: auto;
+    margin: 1.65cm;
+}
+.item_name1{
+    color: black;
+    padding-top: 1cm;
+    margin: 0.95cm;
+
+}
+.item_name0{
+    color: black;
+    padding-top: 1cm;
+    margin: 2.2cm
+}
+
+.three{
+    padding-top: 1cm;
+}
+.name{
+    margin: 2.3cm;
+    color: black;
+
+}
+.name:hover{
+ color: white;  
+ transition: .5; 
+}
+#manu_heading{
+    color: black;
+    padding-left: 10.5cm;
+    padding-top: 2cm;
+}
+.main{
+    display: block;
+   padding-left: 5cm;
+}
+
+/* SPAN{
+    padding-top: 1cm;
+    margin: 1.7cm;
+    background-color: aliceblue;
+} */
+
+.rectangle {
+    padding: 20px;
+    margin: 20px;
+    width: 80%;
+    max-width: 600px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+/* ADD TO CARD */
+.add_to_card{
+margin: 2.2cm;
+padding: 5px;
+color: black;
+background-color: rgb(240, 103, 18);
+}
+.add_to_card:hover{
+    color: white;
+}

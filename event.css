@@ -1,0 +1,51 @@
+body {
+    background-image: url(cont.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#onea {
+    display: inline-block;
+    padding-left: 0;
+}
+
+a {
+    color: white;
+    transition: .5;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+}
+
+nav {
+    display: inline-block;
+    padding-left: 23cm;
+}
+
+a:hover {
+    color: rgba(255, 92, 4, 0.922);
+}
+
+#ww {
+    font-family: 'Bungee Spice', sans-serif;
+    padding-left: 0;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 3cm;
+    font-family: 'Bungee Spice', sans-serif;
+    font-family: 'Lemon', serif;
+}
+
+p {
+    text-align: center;
+}
+
+#reg {
+    color: black;
+    padding-left: 15cm;
+    margin: 6px;
+    padding: 7px;
+    border: 1px solid white;
+    background-color: orangered;
+}
